@@ -1,16 +1,44 @@
-## Hi there 👋
+# 🌸 Xu Li
 
-<!--
-**li147852xu/li147852xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome!
 
-Here are some ideas to get you started:
+I’m a prospective MSc student in Artificial Intelligence at **The University of Hong Kong (HKU)** starting Fall 2025. My academic and research interests lie at the intersection of **graph machine learning**, **anomaly detection**, and **self-supervised learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+- **B.Sc. in Computer Science**, Central South University (CSU), China  
+- **M.Sc. in Artificial Intelligence (2025–2026)**, The University of Hong Kong (HKU) *(Incoming)*
+
+---
+
+## 🔬 Research Interests
+
+- Dynamic Graph Representation Learning  
+- Subgraph-level Anomaly Detection  
+- Self-supervised & Contrastive Learning on Graphs  
+- Causal Explainability in Graph AI
+
+---
+
+## 🧠 Current Projects
+
+- **DySAD**: Dynamic Subgraph Anomaly Detection via Contrastive Learning (Target: ICLR 2026)  
+
+---
+
+## 🚀 Long-Term Goal
+
+I am working toward applying for a **Ph.D. in AI/ML** for Fall 2027 intake, with the goal of publishing top-tier conference papers and pursuing an academic career in Asia.
+
+---
+
+## 📫 Contact
+
+- Email: [xuli.research@gmail.com]  
+- GitHub: [@li147852xu](https://github.com/li147852xu)
+
+---
+
+> *“Stay grounded. Keep learning. Build something meaningful.”*
