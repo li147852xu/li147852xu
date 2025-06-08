@@ -8,7 +8,7 @@ I’m a prospective MSc student in Artificial Intelligence at **The University o
 
 ## 🎓 Education
 
-- **B.Sc. in Computer Science**, Central South University (CSU), China  
+- **B.Eng. in Computer Science**, Central South University (CSU), China  
 - **M.Sc. in Artificial Intelligence (2025–2026)**, The University of Hong Kong (HKU) *(Incoming)*
 
 ---
@@ -30,7 +30,7 @@ I’m a prospective MSc student in Artificial Intelligence at **The University o
 
 ## 🚀 Long-Term Goal
 
-I am working toward applying for a **Ph.D. in AI/ML** for Fall 2027 intake, with the goal of publishing top-tier conference papers and pursuing an academic career in Asia.
+I am working toward applying for a **Ph.D. in AI/ML** for Fall 2027 intake.
 
 ---
 
